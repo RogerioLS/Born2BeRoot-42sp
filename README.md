@@ -3,8 +3,8 @@
 # :anchor: Born2BeRoot | 42 SP
 
 ![42 São Paulo](https://img.shields.io/badge/42-SP-1E2952)
-![License](https://img.shields.io/github/license/mendes-jv/libft?color=dark-green)
-![Last commit](https://img.shields.io/github/last-commit/mendes-jv/libft?color=dark-green)
+![License](https://img.shields.io/github/license/RogerioLS/Born2BeRoot-42sp?color=dark-green)
+![Last commit](https://img.shields.io/github/last-commit/RogerioLS/Born2BeRoot-42sp?color=dark-green)
 
 </div>
 
