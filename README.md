@@ -2,6 +2,7 @@
 
 # :anchor: Born2BeRoot | 42 SP
 
+![Static Badge](https://img.shields.io/badge/BORN2_BE_ROOT--blue)
 ![42 São Paulo](https://img.shields.io/badge/42-SP-1E2952)
 ![License](https://img.shields.io/github/license/RogerioLS/Born2BeRoot-42sp?color=dark-green)
 ![Last commit](https://img.shields.io/github/last-commit/RogerioLS/Born2BeRoot-42sp?color=dark-green)
