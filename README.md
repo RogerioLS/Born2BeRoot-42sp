@@ -2,10 +2,15 @@
 
 # :anchor: Born2BeRoot | 42 SP
 
-![Static Badge](https://img.shields.io/badge/BORN2_BE_ROOT--blue)
-![42 São Paulo](https://img.shields.io/badge/42-SP-1E2952)
-![License](https://img.shields.io/github/license/RogerioLS/Born2BeRoot-42sp?color=dark-green)
-![Last commit](https://img.shields.io/github/last-commit/RogerioLS/Born2BeRoot-42sp?color=dark-green)
+![Static Badge](https://custom-icon-badges.demolab.com/badge/BORN2_BE_ROOT-42-blue?logo=repo)
+![42 São Paulo](https://custom-icon-badges.demolab.com/badge/42-SP-1E2952)
+![License](https://custom-icon-badges.demolab.com/github/license/RogerioLS/Born2BeRoot-42sp?logo=law&color=dark-green)
+![Code size in bytes](https://custom-icon-badges.demolab.com/github/languages/code-size/RogerioLS/Born2BeRoot-42sp?logo=file-code&color=dark-green)
+![Top language](https://custom-icon-badges.demolab.com/github/languages/top/RogerioLS/Born2BeRoot-42sp?color=dark-green)
+![Last commit](https://custom-icon-badges.demolab.com/github/last-commit/RogerioLS/Born2BeRoot-42sp?logo=history&color=dark-green)
+![Repo size](https://custom-icon-badges.demolab.com/github/repo-size/RogerioLS/Born2BeRoot-42sp?logo=database)
+![Languages](https://custom-icon-badges.demolab.com/github/languages/count/RogerioLS/Born2BeRoot-42sp?logo=command-palette&color=red)
+![Discord](https://custom-icon-badges.demolab.com/discord/1114673462859006044?&logo=comments&label=testemunhas%20de%20vim&color=ffbe3a)
 
 </div>
 
